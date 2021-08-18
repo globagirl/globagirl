@@ -1,5 +1,15 @@
 ### Hi there 👋
-
+My name is Khaoula Touati. I have 25 years old and I'm form Tunisia.
+I'm a creative PHP webdeveloper 😄
+I am an allround web developer with good knowledge of front-end techniques. ✨
+I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps.
+ 
+<h3>📫 How to reach me: </h3>
+<ul>
+  <li> <a href="https://www.linkedin.com/in/khawla-touati-374298165/">Linkedin</a> </li>
+  <li> <a href="mailto:kaoulatouati@gmail.com">Email</a> </li>
+</ul>
+ 
 <!--
 **globagirl/globagirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
